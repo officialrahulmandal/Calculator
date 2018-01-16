@@ -1,0 +1,12 @@
+Description:-
+
+This is a GUI based calculator made using tkinter in python
+
+this app is made using simple functions,buttons and entry widgets
+
+Imports:-
+
+Tkinter,sys
+
+for more info. contact:-
+email id:-officialrahulmandal@gmail.com
